@@ -1,0 +1,17 @@
+services:
+  address-matcher:
+    build: .
+    container_name: address-matcher
+    ports:
+      - "8000:8000"
+    volumes:
+      # SQLite 数据库持久化到宿主机
+      - ./data:/app/data
+      # 首次启动自动导入示例标准地址（设为 0 则不导入；数据已存在时也不会重复导入）
+      # - ./sample_data:/app/sample_data:ro
+    environment:
+      MATCH_THRESHOLD: "0.80"
+      MATCH_MARGIN: "0.05"
+      MATCH_FLOOR: "0.30"
+      LOAD_SAMPLE_DATA: "1"
+    restart: unless-stopped

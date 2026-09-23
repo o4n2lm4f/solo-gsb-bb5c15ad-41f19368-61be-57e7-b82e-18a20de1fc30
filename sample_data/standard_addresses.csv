@@ -1,0 +1,13 @@
+id,address,city,state,postcode
+STD-001,"123 Main Street, Apt 4B",Springfield,IL,62701
+STD-002,"123 Main Street, Ste 9",Springfield,IL,62701
+STD-003,450 Oak Avenue,Springfield,IL,62702
+STD-004,1600 Amphitheatre Parkway,Mountain View,CA,94043
+STD-005,1600 Amphitheatre Parkway Building 5,Mountain View,CA,94043
+STD-006,"789 Elm Boulevard, Apt 12",Chicago,IL,60607
+STD-007,221B Baker Street,London,,
+STD-008,500 North Michigan Avenue,Chicago,IL,60611
+STD-009,10 世纪大道 88 号 金茂大厦,上海,,200120
+STD-010,10 世纪大道 100 号 环球金融中心,上海,,200120
+STD-011,88 南京路 365 号,上海,,200003
+STD-012,"12 Kings Cross Road, Apt 3",London,,

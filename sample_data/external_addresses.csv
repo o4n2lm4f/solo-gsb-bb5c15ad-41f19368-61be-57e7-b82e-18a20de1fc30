@@ -1,0 +1,14 @@
+id,address,city,state,postcode
+EXT-001,"123 MAIN ST., apt 4b",Springfield,IL,62701
+EXT-002,"123 Main St, Ste 9",Springfield,IL,62701
+EXT-003,125 Main Street,Springfield,IL,62701
+EXT-004,123 Main,Springfield,IL,62701
+EXT-005,1600 Amphitheatre Pkwy Bldg 5,Mountain View,CA,94043
+EXT-006,742 Evergreen Terrace,Springfield,IL,62799
+EXT-007,450 oak ave.,Chicago,IL,60607
+EXT-008,789 Elm Blvd #12,Chicago,IL,60607
+EXT-009,221b Baker St,,,
+EXT-010,世纪大道88号金茂大厦,上海,,200120
+EXT-011,世纪大道100号,上海,,200120
+EXT-012,南京路365号,上海,,200003
+EXT-013,500 N Michigan Ave,Chicago,IL,60611
